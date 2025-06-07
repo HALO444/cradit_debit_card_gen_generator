@@ -1,5 +1,7 @@
 # Credit Card Generator Script
 
+![image.gif](https://github.com/HALO444/cradit_debit_card_gen_generator/blob/main/download-ezgif.com-cut.gif)
+
 This script (`Credit_Card.py`) is a simple credit card number generator for educational or testing purposes. It generates random credit card numbers based on a given Bank Identification Number (BIN) and additional parameters like month, year, and CVV.
 
 ---
